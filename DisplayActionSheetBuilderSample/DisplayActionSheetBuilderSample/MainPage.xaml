@@ -19,6 +19,7 @@
                 </FormattedString>
             </Label.FormattedText>
         </Label>
+        <Button Text="test" Clicked="Button_Clicked"/>
     </StackLayout>
 
 </ContentPage>
